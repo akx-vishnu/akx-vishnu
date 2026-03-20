@@ -22,10 +22,10 @@
 </div>
 
 <br/>
-<center>
-> ### 💬 &nbsp;*"Real learning in development doesn't come from tutorials.*
+
+> ### &nbsp;&nbsp;*"Real learning in development doesn't come from tutorials.*
 > ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*It comes from breaking things and figuring out why they broke."*
-</center>
+
 <br/>
 
 ## 🧑‍💻 &nbsp;About Me
