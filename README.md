@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akshaj%20V%20Nair&fontSize=52&fontColor=e0f7fa&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20CS%20Grad%20%7C%20Builder&descSize=18&descAlignY=58&descColor=80deea&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Akshaj%20V%20Nair&fontSize=52&fontColor=e0f7fa&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Freelancer%20%7C%20Open%20to%20Work&descSize=18&descAlignY=58&descColor=80deea&animation=fadeIn" />
 
 <!-- Typing SVG -->
 <a href="https://akshajvnair.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+NestJS+%2F+FastAPI;Building+real+products;One+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+NestJS+%2F+FastAPI;Freelancer+%7C+Open+to+Work;India+%F0%9F%87%AE%F0%9F%87%B3+%26+Gulf+%F0%9F%87%A6%F0%9F%87%AA+%7C+Remote+Ready" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,6 +13,26 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-akshajvnair.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://akshajvnair.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akx--vishnu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akx-vishnu)
 [![GitHub](https://img.shields.io/badge/GitHub-akx--vishnu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akx-vishnu)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Freelance%20%26%20Full--time-22c55e?style=for-the-badge&logo=briefcase&logoColor=white)](mailto:akshajvnair.official@gmail.com)
+
+</div>
+
+---
+
+> *"Real learning in development doesn't come from tutorials.*
+> *It comes from breaking things and figuring out why they broke."*
+
+---
+
+> *"Real learning in development doesn't come from tutorials.*
+> *It comes from breaking things and figuring out why they broke."*
+
+---
+
+<div align="center">
+
+> *"Real learning in development doesn't come from tutorials.*
+> *It comes from breaking things and figuring out why they broke."*
 
 </div>
 
@@ -23,13 +43,27 @@
 ```ts
 const akshaj = {
   alias     : "Vishnu",
-  location  : "Kochi, Kerala 🇮🇳",
+  location  : "Kochi, Kerala 🇮🇳  (open to Gulf 🇦🇪)",
   education : "B.Sc. Computer Science — University of Calicut (Apr 2026)",
   focus     : ["Full Stack Development", "Frontend Engineering", "API Design"],
-  currently : "Building scalable web apps & hunting my first dev role 🚀",
+  status    : "Freelancer · Open to full-time & contract roles",
+  markets   : ["India 🇮🇳", "Gulf / GCC 🇦🇪", "Remote 🌐"],
   funFact   : "I also help run a fashion jewellery business on the side 💍",
 };
 ```
+
+---
+
+## 💼 Hire Me
+
+> I'm a **freelance full stack developer** available for projects, contracts, and full-time roles across **India and the Gulf region**.
+
+| | |
+|---|---|
+| 🧩 **What I build** | Web apps, dashboards, REST APIs, landing pages, admin panels |
+| 🌍 **Where** | India 🇮🇳 · Gulf / GCC 🇦🇪 · Remote 🌐 |
+| ⚡ **Availability** | Immediate |
+| 💬 **Let's talk** | [akshajvnair.official@gmail.com](mailto:akshajvnair.official@gmail.com) |
 
 ---
 
@@ -102,11 +136,41 @@ const akshaj = {
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akx-vishnu/akx-vishnu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akx-vishnu/akx-vishnu/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akx-vishnu/akx-vishnu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
 ## 🏆 Highlights
 
 - 🎤 **Research Paper** — Presented *EcoScan AI* at MESKCON International Conference 2026
 - 🎓 **Certifications** — PHP/MySQL (IIT Bombay · SINE · EduPyramids), Cybersecurity (Corizo), Python (KELTRON)
-- 🌐 **Open to** — Full Stack / Frontend roles · Kochi-based & Remote
+- 💼 **Freelancer** — Available for projects across India & the Gulf
+- 🌐 **Open to** — Full Stack / Frontend roles · Kochi · Gulf / GCC · Remote
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 📧 Email | [akshajvnair.official@gmail.com](mailto:akshajvnair.official@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/akx-vishnu](https://linkedin.com/in/akx-vishnu) |
+| 🌐 Portfolio | [akshajvnair.vercel.app](https://akshajvnair.vercel.app) |
+| 🐙 GitHub | [github.com/akx-vishnu](https://github.com/akx-vishnu) |
+
+*Whether it's a freelance project, a job opportunity, or just a collab idea — my inbox is always open.* 🤝
+
+</div>
 
 ---
 
