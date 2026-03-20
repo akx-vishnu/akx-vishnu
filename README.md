@@ -10,8 +10,8 @@
 
 [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-akshajvnair.vercel.app-0ea5e9?style=for-the-badge)](https://akshajvnair.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akx-vishnu)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshajvnair.official@gmail.com)
-[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Freelance%20%26%20Full--time-22c55e?style=for-the-badge)](mailto:akshajvnair.official@gmail.com)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akx_vishnu@pm.me)
+[![Open to Work](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Freelance%20%26%20Full--time-22c55e?style=for-the-badge)](mailto:akx_vishnu@pm.me)
 
 </div>
 
@@ -55,7 +55,7 @@ I'm a **freelance full stack developer** available for projects, contracts, and 
 
 | 🧩 What I build | 🌍 Where | ⚡ Availability | 💬 Contact |
 |:---:|:---:|:---:|:---:|
-| Web apps · Dashboards · REST APIs · Admin panels · Landing pages | India 🇮🇳 · Gulf 🇦🇪 · Remote 🌐 | **Immediate** | [akshajvnair.official@gmail.com](mailto:akshajvnair.official@gmail.com) |
+| Web apps · Dashboards · REST APIs · Admin panels · Landing pages | India 🇮🇳 · Gulf 🇦🇪 · Remote 🌐 | **Immediate** | [akx_vishnu@pm.me](mailto:akx_vishnu@pm.me) |
 
 </div>
 
@@ -103,7 +103,7 @@ I'm a **freelance full stack developer** available for projects, contracts, and 
 <br/>
 
 | 🚌 | **[RTS Fleet Manager](https://github.com/akx-vishnu/rts-fleet-manager)** |
-|:---:|:---|
+|:----:|:----|
 | Stack | `React` `NestJS` `PostgreSQL` `Docker` |
 | About | Real-time fleet tracking & operations management system |
 | ⭐ | Role-based access · live tracking · Docker-containerised deployment |
@@ -168,7 +168,7 @@ I'm a **freelance full stack developer** available for projects, contracts, and 
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-akshajvnair.official%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshajvnair.official@gmail.com)
+[![Email](https://img.shields.io/badge/Email-akx__vishnu%40pm.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:akx_vishnu@pm.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akx--vishnu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akx-vishnu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-akshajvnair.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://akshajvnair.vercel.app)
 
