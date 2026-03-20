@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://akshajvnair.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+NestJS+%2F+FastAPI;Building+real+products%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;React+%2F+Next.js+%2F+NestJS+%2F+FastAPI;Building+real+products;One+commit+at+a+time." alt="Typing SVG" />
 </a>
 
 <br/>
