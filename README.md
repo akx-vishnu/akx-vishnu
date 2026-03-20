@@ -17,18 +17,6 @@
 
 </div>
 
----
-
-> *"Real learning in development doesn't come from tutorials.*
-> *It comes from breaking things and figuring out why they broke."*
-
----
-
-> *"Real learning in development doesn't come from tutorials.*
-> *It comes from breaking things and figuring out why they broke."*
-
----
-
 <div align="center">
 
 > *"Real learning in development doesn't come from tutorials.*
